@@ -10,7 +10,7 @@ get_header();
 
 <div class="toys" id="toys">
             <div class="container">
-                <h2 class="subtitle">Мягкие игрушки</h2>
+                <h2 class="subtitle">Мягкие и пушистые игрушки</h2>
                 <div class="toys__wrapper">
                 <?php
                                         // параметры по умолчанию
